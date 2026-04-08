@@ -15,9 +15,9 @@ al mismo tiempo la personalización por marca dentro del ecosistema EdTech.
 
 | Nombre | Rol | GitHub |
 |---|---|---|
-| Verónica Alvarez Lovera | UI Designer — Tokens, Componentes, Design System | @veroal0032 |
-| Javiana Altuve | UX Designer — Flujos, Wireframes, UI Final | @javianaaltuve3-dot |
-| Vanesa R Gamarra | UX Researcher — Investigación, Customer Journey | @VanesaRGamarra |
+| Verónica Alvarez Lovera | UI Designer — Tokens, Componentes, Design System | [@veroal0032](https://github.com/veroal0032) |
+| Javiana Altuve | UX Designer — Flujos, Wireframes, UI Final | [@javianaaltuve3-dot](https://github.com/javianaaltuve3-dot) |
+| Vanesa R Gamarra | UX Researcher — Investigación, Customer Journey | [@VanesaRGamarra](https://github.com/VanesaRGamarra) |
 ---
 
 ## 🔗 Links del Proyecto
