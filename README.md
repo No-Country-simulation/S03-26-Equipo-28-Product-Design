@@ -35,7 +35,7 @@ al mismo tiempo la personalización por marca dentro del ecosistema EdTech.
 |---|---|---|
 | 00-Portada | Portada del proyecto | ✅ |
 | 01-Fundamentos | Tokens, colores, tipografía, espaciado | ✅ |
-| 02-Design System | Componentes documentados | ✅ En progreso |
+| 02-Design System | Componentes documentados | ✅ |
 | 03-Investigación UX | Mapas de empatía, CJ, Blueprint, MVP | ✅ |
 | 04-Flujos de usuario | Flujos de navegación por rol | ✅ |
 | 05-Wireframes | Wireframes low-fi | ✅ |
