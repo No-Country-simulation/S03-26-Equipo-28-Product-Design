@@ -82,5 +82,5 @@ al mismo tiempo la personalización por marca dentro del ecosistema EdTech.
 
 - ✅ Semana 1 — Logos, moodboard, tipografía
 - ✅ Semana 2 — Tokens, WCAG, Button, Fundamentos
-- 🔄 Semana 3 — Componentes: Forms, Cards, Navegación, Feedback
+- ✅ Semana 3 — Componentes: Forms, Cards, Navegación, Feedback
 - ⏳ Semana 4 — UI Final, Do's & Don'ts, Gobernanza, Presentación
