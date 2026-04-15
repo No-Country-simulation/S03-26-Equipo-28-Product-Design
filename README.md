@@ -38,8 +38,8 @@ al mismo tiempo la personalización por marca dentro del ecosistema EdTech.
 | 02-Design System | Componentes documentados | ✅ En progreso |
 | 03-Investigación UX | Mapas de empatía, CJ, Blueprint, MVP | ✅ |
 | 04-Flujos de usuario | Flujos de navegación por rol | ✅ |
-| 05-Wireframes | Wireframes low-fi | 🔄 Pendiente |
-| 06-UI Final | Pantallas con los 4 themes | 🔄 Pendiente |
+| 05-Wireframes | Wireframes low-fi | ✅ |
+| 06-UI Final | Pantallas con los 4 themes | ✅ |
 | 07-Prototipo | Prototipo navegable | 🔄 Pendiente |
 
 ---
