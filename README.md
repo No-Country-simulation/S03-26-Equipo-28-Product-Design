@@ -26,7 +26,7 @@ al mismo tiempo la personalización por marca dentro del ecosistema EdTech.
 |---|---|
 | 📐 Archivo Figma — Design System | [Edvance Design System](https://www.figma.com/design/ISPPHrjlxu34hHO6zaI0JV/Edvance-Design-System) |
 | 🗂️ FigJam — Investigación UX | [Pizarra del equipo](https://www.figma.com/board/mbTVi25lRuqvTmU5SLVN03/EDVANCE-PIZARRA) |
-| 🗂️ FigmaSlides — Presentación Ejecutiva| [Presentación](https://www.figma.com/deck/DvmUgA516jvJMWAT8vj72h) |
+| 🎯 FigmaSlides — Presentación Ejecutiva| [Presentación](https://www.figma.com/deck/DvmUgA516jvJMWAT8vj72h) |
 ---
 
 ## 📁 Estructura del archivo Figma
