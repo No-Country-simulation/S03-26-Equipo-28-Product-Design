@@ -1,4 +1,4 @@
-# 🚀 Sprint 4 — Implementación, Integración y Release Inicial
+# 🚀 Sprint 4 — UI Final, Do's & Don'ts, Gobernanza y Presentación
 
 ## 🏢 Sector
 EdTech
@@ -10,13 +10,12 @@ Semana 4
 
 ## 🎯 Objetivo del Sprint
 
-Pasar de diseño validado a producto funcional.
+Consolidar el Design System como un producto listo para escalar, documentarlo correctamente y comunicarlo de forma profesional.
 
-- Implementar el Design System en código  
-- Construir flujos clave del producto  
-- Integrar frontend con backend (o mocks)  
-- Validar técnicamente lo diseñado  
-- Preparar un MVP funcional o demo técnica  
+- Definir la UI final del sistema  
+- Establecer reglas claras de uso (Do's & Don'ts)  
+- Definir modelo de gobernanza  
+- Preparar presentación final del proyecto  
 
 ---
 
@@ -24,59 +23,172 @@ Pasar de diseño validado a producto funcional.
 
 Después del Sprint 3:
 
-- Design System v1 validado
+- Sistema validado con usuarios  
+- Flujos end-to-end consolidados  
+- Design System v1 preparado para desarrollo  
 
-Sin embargo:
-
-- Aún no existe una implementación funcional del producto  
-
-👉 El enfoque cambia de **UX/UI → desarrollo + validación técnica**
+👉 El foco ahora pasa de **validar → consolidar, normar y comunicar**
 
 ---
 
 ## 📌 Alcance del Sprint
 
-### 💻 Implementación del Design System
-
-Transformación de Figma a código reutilizable.
-
-- Creación de librería de componentes
-- Implementación de:
-  - Buttons
-  - Inputs / Forms
-  - Cards
-  - Navigation (Navbar / Sidebar)
-  - Feedback (alerts, loaders)
-- Aplicación de:
-  - Tokens (colores, tipografía, spacing)
-  - Themes (multi-brand)
 ---
 
-### 📦 Preparación de Release (MVP)
+## 🎨 UI Final del Sistema
 
-Generación de una versión funcional del producto.
+Cierre visual definitivo del Design System.
 
-**Incluye:**
+**Actividades:**
 
-- Deploy (Vercel / Netlify)
-- Demo navegable
-- Versión funcional accesible
+- Ajustes finales de:
+  - Tipografía  
+  - Colores  
+  - Espaciados  
+  - Iconografía  
+- Revisión de consistencia global  
+- Eliminación de variantes innecesarias  
+- Refinamiento de componentes clave  
+
+**Objetivo:**
+
+Lograr un sistema:
+
+- Consistente  
+- Escalable  
+- Listo para ser usado sin ambigüedad  
 
 **Output:**
 
-- MVP funcional
+- UI final definida  
+- Sistema visual limpio y coherente  
 
 ---
 
-### 📚 Documentación Técnica
+## 📐 Do's & Don'ts (Reglas de Uso)
 
-Base mínima para desarrollo futuro.
+Se pasa de “cómo se ve” a “cómo se usa correctamente”.
 
+**Definir para:**
 
-- Instalación y ejecución del proyecto  
-- Estructura de carpetas  
-- Uso de componentes  
-- Manejo de themes/tokens  
+- Tipografía  
+- Colores  
+- Botones  
+- Formularios  
+- Cards  
+- Layouts  
+
+**Formato recomendado:**
+
+- ✔️ Do (uso correcto + contexto)  
+- ❌ Don't (mal uso + explicación)  
+
+**No solo reglas visuales, incluir:**
+
+- Cuándo usar cada componente  
+- Cuándo NO usarlo  
+- Errores comunes  
+
+**Output:**
+
+- Guía clara y accionable  
+- Reducción de inconsistencias futuras  
+
+---
+
+## 🧩 Gobernanza del Design System
+
+Definir cómo el sistema evoluciona en el tiempo.
+
+**Definir:**
+
+- Quién puede:
+  - Crear componentes  
+  - Modificar existentes  
+- Proceso de cambios:
+  - Propuesta → revisión → aprobación  
+- Versionado:
+  - v1.0 (actual)  
+  - Futuras versiones  
+- Criterios de aceptación:
+  - Cuándo algo entra al sistema  
+
+**Opcional:**
+
+- Modelo centralizado vs distribuido  
+
+**Objetivo:**
+
+Evitar:
+
+- Caos  
+- Inconsistencias  
+- Crecimiento descontrolado  
+
+**Output:**
+
+- Framework de gobernanza claro  
+
+---
+
+## 📚 Documentación Final
+
+Conversión del sistema en un producto entendible.
+
+**Incluir:**
+
+- Introducción al Design System  
+- Principios de diseño  
+- Componentes documentados  
+- Tokens  
+- Multi-brand (cómo funciona)  
+- Do's & Don'ts  
+- Gobernanza  
+
+**Nivel:**
+
+- Claro  
+- Navegable  
+- Listo para onboarding de nuevos miembros  
+
+---
+
+## 🖥️ Preparación de Presentación Final
+
+Comunicación del proyecto de forma estratégica.
+
+**Debe responder:**
+
+- ¿Qué problema resuelve?  
+- ¿Por qué es importante?  
+- ¿Cómo funciona el sistema?  
+- ¿Qué lo hace escalable?  
+
+**Estructura sugerida:**
+
+1. Problema  
+2. Proceso (Sprints)  
+3. Sistema (UI + lógica)  
+4. Validación  
+5. Resultado final  
+6. Impacto  
+
+**Incluir:**
+
+- Mockups finales  
+- Flujos completos  
+- Ejemplo multi-brand  
+- Demo navegable (si existe)  
+
+---
+
+## 🎥 Entregables Finales
+
+- Presentación (slides)  
+- Video resumen  
+- Figma organizado  
+- Documentación del sistema  
+- (Opcional) MVP o prototipo navegable  
 
 ---
 
@@ -84,41 +196,55 @@ Base mínima para desarrollo futuro.
 
 | Rol | Responsable | Enfoque |
 |-----|------------|--------|
-| UI Designer | Verónica Alvarez | QA visual, soporte a desarrollo |
-| UX Designer | Javiana Altuve | Validación UX en implementación |
-| UX Researcher | Vanesa Gamarra | Testing sobre MVP |
-| Desarrollo | Equipo | Implementación técnica |
+| UI Designer | Verónica Alvarez | UI final, consistencia visual |
+| UX Designer | Javiana Altuve | Documentación de flujos y uso |
+| UX Researcher | Vanesa Gamarra | Insights finales y validación |
+| Equipo | Todos | Presentación y cierre |
 
 ---
 
 ## 🤝 Dinámica de Trabajo
 
-- Trabajo colaborativo diseño ↔ desarrollo    
-- Iteraciones cortas  
-- Priorizar funcionalidad sobre perfección  
+- Revisión constante del sistema completo  
+- Decisiones orientadas a claridad  
+- Eliminación de complejidad innecesaria  
+- Trabajo colaborativo en documentación  
 
 ---
 
 ## 🔄 Decisiones Clave
 
-- Priorizar funcionalidad sobre pixel-perfect  
-- Implementar solo lo esencial (MVP)  
-- Simplificar si algo es complejo  
-- Validar multi-brand   
+- Priorizar claridad sobre cantidad  
+- Reducir variantes innecesarias  
+- Documentar el “por qué”, no solo el “qué”  
+- Pensar el sistema como producto  
 
 ---
 
 ## ⚠️ Riesgos
- 
-- Complejidad del sistema multi-brand  
-- Scope creep (querer hacer de más)  
+
+- Sobre-documentar sin claridad  
+- Reglas demasiado rígidas  
+- Inconsistencias no detectadas  
+- Falta de alineación en presentación  
 
 ---
 
+## 📊 Estado Esperado
 
+- Design System v1.0 finalizado  
+- UI consistente y cerrada  
+- Reglas de uso claras  
+- Gobernanza definida  
+- Presentación profesional lista  
+
+---
 
 ## 💡 Recomendación
 
-No buscar perfección.
+No agregar más.
 
-👉 Este sprint es sobre validar que el producto se puede construir y funciona en la práctica.
+👉 Este sprint es sobre cerrar, ordenar y comunicar.
+
+Un buen sistema no es el más grande,
+sino el más claro y usable.
